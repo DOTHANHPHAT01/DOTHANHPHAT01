@@ -1,7 +1,9 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Thành Phát</h1>
+<h1 align="center">ĐỒ ÁN TỔNG HỢP 2023-2024</h1>
 <p align="center">
-  <h3 align="center">A Student at Ton Duc Thang University from Vietnam 🇻🇳 </h3>
+  <h2 align="center">KHOA ĐIỆN - ĐIỆN TỬ </h2> 
+  <h3 align="center">HỌ & TÊN : ĐỖ THÀNH PHÁT</h3>
+  <h4 align="center">MSSV : 41901008</h4
 </p>
 
 <br />
@@ -22,12 +24,35 @@
   </a>
 </p>
 
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" /> 
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/ios/50/ms-word.png"/>
+  <img src="https://img.icons8.com/ios/50/ms-excel.png"/>
+
+</p>
+
+## Activities: 
+
+<table style="width:100%;">
+  <tr>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="dev" width="50%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Activities:
 # Tên Dự Án : Robot vận hành và giám sát kho xưởng
 
 ## Mô Tả
 
-Đề tài nghiên cưu tạo ra một mô hình robot 4 bánh điều khiển bởi sóng RF và jostick cùng với cánh tay robot được điều khiển qua áp từ local ip , có camera để quan sát hình ảnh được gửi về qua điện thoại. Cánh tay robot có thể tự học lệnh và lưu trữ dữ liệu trong Ram của vi điều khiển ESP32, khi được yêu cầu cánh tay sẽ tự động thao tác lại những gì đã ghi nhớ. Kết hợp quản lí thông số môi trường qua Blynk IOT và hệ thống pin năng lượng mặt trời tự điều hướng giúp tối ưu năng lượng ánh sáng bảo vệ môi trường . 
+Đề tài nghiên cưu tạo ra một mô hình robot 4 bánh điều khiển bởi sóng RF và joystick cùng với cánh tay robot được điều khiển qua áp từ local ip , có camera để quan sát hình ảnh được gửi về qua điện thoại. Cánh tay robot có thể tự học lệnh và lưu trữ dữ liệu trong Ram của vi điều khiển ESP32, khi được yêu cầu cánh tay sẽ tự động thao tác lại những gì đã ghi nhớ. Kết hợp quản lí thông số môi trường qua Blynk IOT và hệ thống pin năng lượng mặt trời tự điều hướng giúp tối ưu năng lượng ánh sáng bảo vệ môi trường . 
 
 ## Chức Năng
 
