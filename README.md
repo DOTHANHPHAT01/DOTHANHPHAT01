@@ -7,7 +7,13 @@
 
 ## Mô Tả
 
-Đề tài nghiên cưu tạo ra một mô hình robot 4 bánh điều khiển bởi sóng RF và jostick cùng với cánh tay robot được điều khiển qua áp từ local ip , có camera để quan sát hình ảnh được gửi về qua điện thoại. Cánh tay robot có thể tự học lệnh và lưu trữ dữ liệu trong Ram của vi điều khiển ESP32, khi được yêu cầu cánh tay sẽ tự động thao tác lại những gì đã ghi nhớ. Kết hợp quản lí thông số môi trường qua Blynk IOT và hệ thống pin năng lượng mặt trời tự điều hướng giúp tối ưu năng lượng ánh sáng bảo vệ môi trường . 
+Đề tài nghiên cưu tạo ra một mô hình robot 4 bánh điều khiển bởi sóng RF 
+và jostick cùng với cánh tay robot được điều khiển qua áp từ local ip , có camera 
+để quan sát hình ảnh được gửi về qua điện thoại. Cánh tay robot có thể tự học lệnh 
+và lưu trữ dữ liệu trong Ram của vi điều khiển ESP32, 
+khi được yêu cầu cánh tay sẽ tự động thao tác lại những gì đã ghi nhớ. 
+Kết hợp quản lí thông số môi trường qua Blynk IOT và hệ thống pin năng lượng mặt trời 
+tự điều hướng giúp tối ưu năng lượng ánh sáng bảo vệ môi trường . 
 
 ## Chức Năng
 
